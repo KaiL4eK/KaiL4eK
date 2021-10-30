@@ -8,7 +8,6 @@
 <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
 <a href="https://en.cppreference.com/w/c/language"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
 <a href="https://www.java.com/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
-<a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"></a>
 <a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"></a>
 
 #### Machine learning frameworks
@@ -62,6 +61,8 @@
 <a href="https://www.intel.ru/content/www/ru/ru/products/details/nuc.html"><img alt="NUC" src="https://img.shields.io/badge/Intel NUC-blue?style=for-the-badge"></a>
 <a href="https://software.intel.com/content/www/us/en/develop/hardware/neural-compute-stick.html"><img alt="NCS" src="https://img.shields.io/badge/Intel NCS-blue?style=for-the-badge"></a>
 <a href="https://www.nvidia.com/ru-ru/autonomous-machines/embedded-systems/"><img alt="Jetson" src="https://img.shields.io/badge/Nvidia Jetson-darkgreen?style=for-the-badge"></a>
+<a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"></a>
+<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="https://img.shields.io/badge/-STM32-white?style=for-the-badge" alt="STM32"></a>
 
 #### Databases
 
