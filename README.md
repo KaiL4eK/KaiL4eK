@@ -49,6 +49,7 @@
 
 <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a>
 <a href="https://www.atlassian.com/ru/software/jira"><img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"></a>
+<a href="https://www.atlassian.com/ru/software/confluence"><img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"></a>
 
 
 #### Robotics frameworks
