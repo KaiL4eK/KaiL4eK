@@ -8,6 +8,7 @@
 <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
 <a href="https://en.cppreference.com/w/c/language"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
 <a href="https://www.java.com/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
+<a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-white.svg?style=for-the-badge&logo=r&logoColor=blue" alt="R"></a>
 
 #### Machine learning frameworks
 
@@ -50,6 +51,9 @@
 <a href="https://www.atlassian.com/ru/software/jira"><img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"></a>
 <a href="https://www.atlassian.com/ru/software/confluence"><img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"></a>
 <a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"></a>
+
+<a href="https://github.com/openvinotoolkit/cvat"><img src="https://img.shields.io/badge/CVAT-white?style=for-the-badge&logoColor=white" alt="CVAT"></a>
+<a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLFlow-white?style=for-the-badge&logoColor=white" alt="MLFlow"></a>
 
 #### Robotics frameworks
 
